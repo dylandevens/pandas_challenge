@@ -1,0 +1,11 @@
+Some informtation that I gathered from my analysis is as follows:
+
+
+According to the district summary, the passing rate for students for both math and reading is 65%. 65% is typically a failing rate, so it is weird to see that the entire district as a whole is failing for students in both math and reading on average.
+
+Huang High School Has one of the highest per capita spending in the entire district. But based on the passing rate for its students, it is one of the lowest for both reading and math.
+
+The Highest-Performing Schools (by % Overall Passing) are all charter schools, while the 5 lowest performers bases on % Overall Passing are all ditrict schools. 
+
+According to the Scores by School Spending, the schools who spent the least (<$585) had the best passsing rates for both reading and math.
+
